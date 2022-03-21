@@ -2,22 +2,22 @@
   {
     "id": 1,
     "type": "human",
-    "hair": "#c62f42",
-    "background": "#bbbeb7",
+    "hair": "red",
+    "background": "grey",
     "eyes": "blue",
     "img": "https://raw.githubusercontent.com/VadimTs12/images-samurai/master/images/05153113-a16a-46b4-9941-39ef8f0132a5.png"
   },
   {
     "id": 2,
-    "type": "#c62f42",
+    "type": "red",
     "hair": "white",
-    "background": "#c62f42",
+    "background": "red",
     "eyes": "brown",
     "img": "https://raw.githubusercontent.com/VadimTs12/images-samurai/master/images/12b27500-75c1-474e-a042-ddb2dfcdd36b.png"
   },
   {
     "id": 3,
-    "type": "#c62f42",
+    "type": "red",
     "hair": "white",
     "background": "white",
     "eyes": "green",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "type": "#c62f42",
+    "type": "red",
     "hair": "blue",
     "background": "white",
     "eyes": "closed",
@@ -35,7 +35,7 @@
     "id": 5,
     "type": "human",
     "hair": "brown",
-    "background": "#bbbeb7",
+    "background": "grey",
     "eyes": "closed",
     "img": "https://raw.githubusercontent.com/VadimTs12/images-samurai/master/images/29b6a693-582c-41b6-a900-3537fd4f7785.png"
   }
