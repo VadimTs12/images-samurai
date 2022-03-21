@@ -22,5 +22,21 @@
     "background": "white",
     "eyes": "green",
     "img": "https://raw.githubusercontent.com/VadimTs12/images-samurai/master/images/133f7b5d-36df-479d-9827-9e7d28955877.png"
+  },
+  {
+    "id": 4,
+    "type": "red",
+    "hair": "blue",
+    "background": "white",
+    "eyes": "closed",
+    "img": "https://raw.githubusercontent.com/VadimTs12/images-samurai/master/images/24b69b8c-98a1-47e4-a603-df8c481358dd.png"
+  },
+  {
+    "id": 5,
+    "type": "human",
+    "hair": "brown",
+    "background": "grey",
+    "eyes": "closed",
+    "img": "https://raw.githubusercontent.com/VadimTs12/images-samurai/master/images/29b6a693-582c-41b6-a900-3537fd4f7785.png"
   }
 ]
