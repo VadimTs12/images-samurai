@@ -1,5 +1,5 @@
 {
-filters:[
+"filters":[
   {
     "id": "Type",
     "name": "Type",
@@ -2797,7 +2797,7 @@ filters:[
     ]
   }
 ],
-collection:[
+"collection":[
   {
     "id": "6165",
     "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/6165.png",
